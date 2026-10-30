@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30 11:55 UTC+08:00",
+  "generated_at": "2026-10-30 12:26 UTC+08:00",
   "data_date": "2026-10-29",
   "market": {
     "taiex": {
@@ -16,6 +16,7 @@
       "days_vs_ma120": 329,
       "rsi14": 43.6,
       "volume_ratio_20d": 0.85,
+      "avg_volume_20d": 9652.8,
       "high_250d": 49822.55,
       "drawdown_from_250d_high_pct": -6.93,
       "high_in_history": 49822.55,
@@ -37,6 +38,7 @@
       "days_vs_ma120": -9,
       "rsi14": 41.7,
       "volume_ratio_20d": 0.89,
+      "avg_volume_20d": 2326.5,
       "high_250d": 453.5,
       "drawdown_from_250d_high_pct": -14.58,
       "high_in_history": 453.5,
@@ -73,6 +75,7 @@
       "days_vs_ma120": 339,
       "rsi14": 44.0,
       "volume_ratio_20d": 0.65,
+      "avg_volume_20d": 28237.6,
       "high_250d": 2585.0,
       "drawdown_from_250d_high_pct": -6.58,
       "institutional": {
@@ -114,6 +117,7 @@
       "days_vs_ma120": -18,
       "rsi14": 54.4,
       "volume_ratio_20d": 1.17,
+      "avg_volume_20d": 2649.3,
       "high_250d": 2880.0,
       "drawdown_from_250d_high_pct": -28.82,
       "institutional": {
@@ -155,6 +159,7 @@
       "days_vs_ma120": -13,
       "rsi14": 45.3,
       "volume_ratio_20d": 0.61,
+      "avg_volume_20d": 48817.4,
       "high_250d": 1140.0,
       "drawdown_from_250d_high_pct": -52.37,
       "institutional": {
@@ -198,6 +203,7 @@
       "days_vs_ma120": 2,
       "rsi14": 68.1,
       "volume_ratio_20d": 5.8,
+      "avg_volume_20d": 6138.8,
       "high_250d": 233.0,
       "drawdown_from_250d_high_pct": -0.64,
       "institutional": {
@@ -239,6 +245,7 @@
       "days_vs_ma120": -14,
       "rsi14": 40.8,
       "volume_ratio_20d": 0.48,
+      "avg_volume_20d": 1063.6,
       "high_250d": 4705.0,
       "drawdown_from_250d_high_pct": -46.01,
       "institutional": {
@@ -280,6 +287,7 @@
       "days_vs_ma120": -11,
       "rsi14": 43.9,
       "volume_ratio_20d": 0.7,
+      "avg_volume_20d": 4214.8,
       "high_250d": 1190.0,
       "drawdown_from_250d_high_pct": -29.33,
       "institutional": {
@@ -321,6 +329,7 @@
       "days_vs_ma120": -1,
       "rsi14": 39.0,
       "volume_ratio_20d": 0.79,
+      "avg_volume_20d": 8731.7,
       "high_250d": 5285.0,
       "drawdown_from_250d_high_pct": -23.46,
       "institutional": {
@@ -354,16 +363,17 @@
       "chg_1d_pct": -3.33,
       "chg_5d_pct": -2.08,
       "chg_20d_pct": -10.87,
-      "ma60": 3781.08,
-      "ma120": 4454.04,
-      "bias_ma60_pct": -50.15,
-      "bias_ma120_pct": -57.68,
-      "days_vs_ma60": -37,
-      "days_vs_ma120": -37,
-      "rsi14": 31.7,
+      "ma60": 2151.56,
+      "ma120": 1933.56,
+      "bias_ma60_pct": -12.39,
+      "bias_ma120_pct": -2.51,
+      "days_vs_ma60": -10,
+      "days_vs_ma120": -1,
+      "rsi14": 38.9,
       "volume_ratio_20d": 0.76,
-      "high_250d": 7800.0,
-      "drawdown_from_250d_high_pct": -75.83,
+      "avg_volume_20d": 4693.0,
+      "high_250d": 2610.0,
+      "drawdown_from_250d_high_pct": -27.78,
       "institutional": {
         "date": "2026-10-29",
         "foreign_net_lots": -62,
@@ -403,6 +413,7 @@
       "days_vs_ma120": -12,
       "rsi14": 31.8,
       "volume_ratio_20d": 1.46,
+      "avg_volume_20d": 12064.4,
       "high_250d": 2520.0,
       "drawdown_from_250d_high_pct": -41.27,
       "institutional": {
@@ -444,6 +455,7 @@
       "days_vs_ma120": 56,
       "rsi14": 59.5,
       "volume_ratio_20d": 0.88,
+      "avg_volume_20d": 7332.6,
       "high_250d": 1330.0,
       "drawdown_from_250d_high_pct": -9.77,
       "institutional": {
@@ -485,6 +497,7 @@
       "days_vs_ma120": -4,
       "rsi14": 40.7,
       "volume_ratio_20d": 0.52,
+      "avg_volume_20d": 33476.0,
       "high_250d": 298.5,
       "drawdown_from_250d_high_pct": -28.48,
       "institutional": {
@@ -526,6 +539,7 @@
       "days_vs_ma120": -36,
       "rsi14": 40.8,
       "volume_ratio_20d": 0.8,
+      "avg_volume_20d": 1431.2,
       "high_250d": 724.0,
       "drawdown_from_250d_high_pct": -50.28,
       "institutional": {
@@ -567,6 +581,7 @@
       "days_vs_ma120": -66,
       "rsi14": 36.1,
       "volume_ratio_20d": 2.03,
+      "avg_volume_20d": 32480.0,
       "high_250d": 185.5,
       "drawdown_from_250d_high_pct": -46.09,
       "institutional": {
@@ -608,6 +623,7 @@
       "days_vs_ma120": -9,
       "rsi14": 41.2,
       "volume_ratio_20d": 0.67,
+      "avg_volume_20d": 1023.0,
       "high_250d": 7380.0,
       "drawdown_from_250d_high_pct": -34.42,
       "institutional": {
@@ -649,6 +665,7 @@
       "days_vs_ma120": 60,
       "rsi14": 50.7,
       "volume_ratio_20d": 1.29,
+      "avg_volume_20d": 1480.8,
       "high_250d": 8600.0,
       "drawdown_from_250d_high_pct": -11.16,
       "institutional": {
@@ -690,6 +707,7 @@
       "days_vs_ma120": -11,
       "rsi14": 46.6,
       "volume_ratio_20d": 0.73,
+      "avg_volume_20d": 2298.9,
       "high_250d": 5375.0,
       "drawdown_from_250d_high_pct": -31.53,
       "institutional": {
@@ -731,6 +749,7 @@
       "days_vs_ma120": 60,
       "rsi14": 42.6,
       "volume_ratio_20d": 0.92,
+      "avg_volume_20d": 16812.2,
       "high_250d": 1325.0,
       "drawdown_from_250d_high_pct": -21.51,
       "institutional": {
@@ -772,6 +791,7 @@
       "days_vs_ma120": -98,
       "rsi14": 27.1,
       "volume_ratio_20d": 0.97,
+      "avg_volume_20d": 1798.1,
       "high_250d": 1080.0,
       "drawdown_from_250d_high_pct": -47.87,
       "institutional": {
@@ -813,6 +833,7 @@
       "days_vs_ma120": -7,
       "rsi14": 33.5,
       "volume_ratio_20d": 0.69,
+      "avg_volume_20d": 2133.8,
       "high_250d": 187.0,
       "drawdown_from_250d_high_pct": -16.04,
       "institutional": {
@@ -854,6 +875,7 @@
       "days_vs_ma120": -20,
       "rsi14": 42.6,
       "volume_ratio_20d": 1.02,
+      "avg_volume_20d": 11632.9,
       "high_250d": 417.0,
       "drawdown_from_250d_high_pct": -23.74,
       "institutional": {
@@ -895,6 +917,7 @@
       "days_vs_ma120": 41,
       "rsi14": 52.0,
       "volume_ratio_20d": 0.49,
+      "avg_volume_20d": 1340.9,
       "high_250d": 842.0,
       "drawdown_from_250d_high_pct": -7.84,
       "institutional": {
@@ -936,6 +959,7 @@
       "days_vs_ma120": -11,
       "rsi14": 41.5,
       "volume_ratio_20d": 0.89,
+      "avg_volume_20d": 799.6,
       "high_250d": 8260.0,
       "drawdown_from_250d_high_pct": -37.17,
       "institutional": {
