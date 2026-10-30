@@ -27,8 +27,8 @@ def make_opener():
     op.addheaders = [("User-Agent", "Mozilla/5.0"), ("Referer", BASE + "/index.jsp")]
     try:
         op.open(BASE + "/index.jsp", timeout=20).read()
-    except Exception as exc:
-        errors.append(f"取得連線憑證失敗：{exc!r}")
+    except Exception:
+        pass  # 這一步只是預先取得 cookie，失敗不影響行情查詢
     return op
 
 
@@ -63,8 +63,8 @@ def pct(a, b):
 
 
 def current_price(m):
-    """最新成交價；尚無成交時用最佳買價，再不行用最佳賣價"""
-    return num(m.get("z")) or num(m.get("b")) or num(m.get("a"))
+    """最新成交價；沒有即時成交（例如漲跌停鎖死）時，依序改用上一筆成交價、最佳買價、最佳賣價、今日最低價"""
+    return num(m.get("z")) or num(m.get("pz")) or num(m.get("b")) or num(m.get("a")) or num(m.get("l"))
 
 
 def cross(prev_days, price, ma, label):
