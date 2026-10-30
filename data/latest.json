@@ -1,0 +1,971 @@
+{
+  "generated_at": "2026-10-30 11:55 UTC+08:00",
+  "data_date": "2026-10-29",
+  "market": {
+    "taiex": {
+      "date": "2026-10-29",
+      "close": 46368.33,
+      "chg_1d_pct": -1.42,
+      "chg_5d_pct": 0.16,
+      "chg_20d_pct": -3.45,
+      "ma60": 46505.83,
+      "ma120": 45280.95,
+      "bias_ma60_pct": -0.3,
+      "bias_ma120_pct": 2.4,
+      "days_vs_ma60": -1,
+      "days_vs_ma120": 329,
+      "rsi14": 43.6,
+      "volume_ratio_20d": 0.85,
+      "high_250d": 49822.55,
+      "drawdown_from_250d_high_pct": -6.93,
+      "high_in_history": 49822.55,
+      "drawdown_from_high_pct": -6.93,
+      "crash_light": "黃燈",
+      "red_light_level": 39858.04
+    },
+    "tpex": {
+      "date": "2026-10-29",
+      "close": 387.37,
+      "chg_1d_pct": -1.83,
+      "chg_5d_pct": -0.13,
+      "chg_20d_pct": -6.2,
+      "ma60": 400.48,
+      "ma120": 408.35,
+      "bias_ma60_pct": -3.27,
+      "bias_ma120_pct": -5.14,
+      "days_vs_ma60": -7,
+      "days_vs_ma120": -9,
+      "rsi14": 41.7,
+      "volume_ratio_20d": 0.89,
+      "high_250d": 453.5,
+      "drawdown_from_250d_high_pct": -14.58,
+      "high_in_history": 453.5,
+      "drawdown_from_high_pct": -14.58,
+      "crash_light": "橙燈",
+      "red_light_level": 362.8
+    },
+    "institutional_total": {
+      "date": "2026-10-29",
+      "foreign_net_100m": -688.15,
+      "trust_net_100m": 70.44,
+      "dealer_net_100m": -215.0,
+      "total_net_100m": -832.71
+    },
+    "margin_total": {
+      "date": "2026-10-29",
+      "margin_money_chg_pct": 0.25
+    }
+  },
+  "holdings": [
+    {
+      "code": "2330",
+      "name": "台積電",
+      "date": "2026-10-29",
+      "close": 2415.0,
+      "chg_1d_pct": -0.41,
+      "chg_5d_pct": 0.42,
+      "chg_20d_pct": -2.42,
+      "ma60": 2432.5,
+      "ma120": 2388.83,
+      "bias_ma60_pct": -0.72,
+      "bias_ma120_pct": 1.1,
+      "days_vs_ma60": -8,
+      "days_vs_ma120": 339,
+      "rsi14": 44.0,
+      "volume_ratio_20d": 0.65,
+      "high_250d": 2585.0,
+      "drawdown_from_250d_high_pct": -6.58,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": -10,
+        "trust_net_lots": 443,
+        "dealer_net_lots": -281,
+        "foreign_5d_lots": -23652,
+        "trust_5d_lots": 6455,
+        "foreign_streak": -15,
+        "trust_streak": 20
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 35343,
+        "margin_chg_1d_lots": 11,
+        "margin_chg_5d_lots": 942,
+        "short_balance_lots": 16
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 68.55,
+        "chg_20d_pct_pt": -0.65
+      }
+    },
+    {
+      "code": "8299",
+      "name": "群聯",
+      "date": "2026-10-29",
+      "close": 2050.0,
+      "chg_1d_pct": 0.49,
+      "chg_5d_pct": 11.11,
+      "chg_20d_pct": -3.53,
+      "ma60": 2031.33,
+      "ma120": 2165.54,
+      "bias_ma60_pct": 0.92,
+      "bias_ma120_pct": -5.34,
+      "days_vs_ma60": 2,
+      "days_vs_ma120": -18,
+      "rsi14": 54.4,
+      "volume_ratio_20d": 1.17,
+      "high_250d": 2880.0,
+      "drawdown_from_250d_high_pct": -28.82,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": 431,
+        "trust_net_lots": 6,
+        "dealer_net_lots": -43,
+        "foreign_5d_lots": 2700,
+        "trust_5d_lots": 161,
+        "foreign_streak": 6,
+        "trust_streak": 4
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 10075,
+        "margin_chg_1d_lots": 20,
+        "margin_chg_5d_lots": -340,
+        "short_balance_lots": 19
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 45.49,
+        "chg_20d_pct_pt": 1.46
+      }
+    },
+    {
+      "code": "2327",
+      "name": "國巨",
+      "date": "2026-10-29",
+      "close": 543.0,
+      "chg_1d_pct": -0.73,
+      "chg_5d_pct": 3.82,
+      "chg_20d_pct": -6.38,
+      "ma60": 569.35,
+      "ma120": 661.92,
+      "bias_ma60_pct": -4.63,
+      "bias_ma120_pct": -17.97,
+      "days_vs_ma60": -9,
+      "days_vs_ma120": -13,
+      "rsi14": 45.3,
+      "volume_ratio_20d": 0.61,
+      "high_250d": 1140.0,
+      "drawdown_from_250d_high_pct": -52.37,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": -3853,
+        "trust_net_lots": 174,
+        "dealer_net_lots": 632,
+        "foreign_5d_lots": -3025,
+        "trust_5d_lots": 720,
+        "foreign_streak": -1,
+        "trust_streak": 3
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 45483,
+        "margin_chg_1d_lots": -149,
+        "margin_chg_5d_lots": -3175,
+        "short_balance_lots": 370
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 42.11,
+        "chg_20d_pct_pt": -2.84
+      }
+    }
+  ],
+  "watchlist": [
+    {
+      "code": "3035",
+      "name": "智原",
+      "date": "2026-10-29",
+      "close": 231.5,
+      "chg_1d_pct": 9.98,
+      "chg_5d_pct": 20.26,
+      "chg_20d_pct": 12.11,
+      "ma60": 186.32,
+      "ma120": 193.3,
+      "bias_ma60_pct": 24.25,
+      "bias_ma120_pct": 19.76,
+      "days_vs_ma60": 25,
+      "days_vs_ma120": 2,
+      "rsi14": 68.1,
+      "volume_ratio_20d": 5.8,
+      "high_250d": 233.0,
+      "drawdown_from_250d_high_pct": -0.64,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": 8521,
+        "trust_net_lots": 0,
+        "dealer_net_lots": 587,
+        "foreign_5d_lots": 7451,
+        "trust_5d_lots": 331,
+        "foreign_streak": 1,
+        "trust_streak": 0
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 9055,
+        "margin_chg_1d_lots": -171,
+        "margin_chg_5d_lots": -181,
+        "short_balance_lots": 505
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 21.24,
+        "chg_20d_pct_pt": 4.79
+      }
+    },
+    {
+      "code": "3529",
+      "name": "力旺",
+      "date": "2026-10-29",
+      "close": 2540.0,
+      "chg_1d_pct": -4.33,
+      "chg_5d_pct": -4.33,
+      "chg_20d_pct": -21.36,
+      "ma60": 2688.92,
+      "ma120": 2916.79,
+      "bias_ma60_pct": -5.54,
+      "bias_ma120_pct": -12.92,
+      "days_vs_ma60": -6,
+      "days_vs_ma120": -14,
+      "rsi14": 40.8,
+      "volume_ratio_20d": 0.48,
+      "high_250d": 4705.0,
+      "drawdown_from_250d_high_pct": -46.01,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": 10,
+        "trust_net_lots": -18,
+        "dealer_net_lots": -4,
+        "foreign_5d_lots": 330,
+        "trust_5d_lots": -15,
+        "foreign_streak": 2,
+        "trust_streak": -1
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 1867,
+        "margin_chg_1d_lots": 1,
+        "margin_chg_5d_lots": 40,
+        "short_balance_lots": 2
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 58.99,
+        "chg_20d_pct_pt": 0.18
+      }
+    },
+    {
+      "code": "6531",
+      "name": "愛普",
+      "date": "2026-10-29",
+      "close": 841.0,
+      "chg_1d_pct": -0.24,
+      "chg_5d_pct": 5.13,
+      "chg_20d_pct": -15.31,
+      "ma60": 906.25,
+      "ma120": 932.56,
+      "bias_ma60_pct": -7.2,
+      "bias_ma120_pct": -9.82,
+      "days_vs_ma60": -9,
+      "days_vs_ma120": -11,
+      "rsi14": 43.9,
+      "volume_ratio_20d": 0.7,
+      "high_250d": 1190.0,
+      "drawdown_from_250d_high_pct": -29.33,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": -271,
+        "trust_net_lots": -13,
+        "dealer_net_lots": -22,
+        "foreign_5d_lots": -460,
+        "trust_5d_lots": 354,
+        "foreign_streak": -1,
+        "trust_streak": -1
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 10491,
+        "margin_chg_1d_lots": 312,
+        "margin_chg_5d_lots": 878,
+        "short_balance_lots": 24
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 33.64,
+        "chg_20d_pct_pt": -0.51
+      }
+    },
+    {
+      "code": "2454",
+      "name": "聯發科",
+      "date": "2026-10-29",
+      "close": 4045.0,
+      "chg_1d_pct": -4.49,
+      "chg_5d_pct": -2.53,
+      "chg_20d_pct": -23.46,
+      "ma60": 4339.33,
+      "ma120": 4146.54,
+      "bias_ma60_pct": -6.78,
+      "bias_ma120_pct": -2.45,
+      "days_vs_ma60": -9,
+      "days_vs_ma120": -1,
+      "rsi14": 39.0,
+      "volume_ratio_20d": 0.79,
+      "high_250d": 5285.0,
+      "drawdown_from_250d_high_pct": -23.46,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": -1682,
+        "trust_net_lots": 366,
+        "dealer_net_lots": 94,
+        "foreign_5d_lots": -7304,
+        "trust_5d_lots": 2117,
+        "foreign_streak": -15,
+        "trust_streak": 12
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 12217,
+        "margin_chg_1d_lots": 104,
+        "margin_chg_5d_lots": 428,
+        "short_balance_lots": 23
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 53.88,
+        "chg_20d_pct_pt": -2.74
+      }
+    },
+    {
+      "code": "6669",
+      "name": "緯穎",
+      "date": "2026-10-29",
+      "close": 1885.0,
+      "chg_1d_pct": -3.33,
+      "chg_5d_pct": -2.08,
+      "chg_20d_pct": -10.87,
+      "ma60": 3781.08,
+      "ma120": 4454.04,
+      "bias_ma60_pct": -50.15,
+      "bias_ma120_pct": -57.68,
+      "days_vs_ma60": -37,
+      "days_vs_ma120": -37,
+      "rsi14": 31.7,
+      "volume_ratio_20d": 0.76,
+      "high_250d": 7800.0,
+      "drawdown_from_250d_high_pct": -75.83,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": -62,
+        "trust_net_lots": -123,
+        "dealer_net_lots": 1,
+        "foreign_5d_lots": 2216,
+        "trust_5d_lots": -1718,
+        "foreign_streak": -2,
+        "trust_streak": -11
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 4872,
+        "margin_chg_1d_lots": 3,
+        "margin_chg_5d_lots": -59,
+        "short_balance_lots": 234
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 26.75,
+        "chg_20d_pct_pt": 4.47
+      }
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "date": "2026-10-29",
+      "close": 1480.0,
+      "chg_1d_pct": -4.52,
+      "chg_5d_pct": -7.79,
+      "chg_20d_pct": -22.51,
+      "ma60": 1762.5,
+      "ma120": 1912.33,
+      "bias_ma60_pct": -16.03,
+      "bias_ma120_pct": -22.61,
+      "days_vs_ma60": -9,
+      "days_vs_ma120": -12,
+      "rsi14": 31.8,
+      "volume_ratio_20d": 1.46,
+      "high_250d": 2520.0,
+      "drawdown_from_250d_high_pct": -41.27,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": -2432,
+        "trust_net_lots": -1533,
+        "dealer_net_lots": 64,
+        "foreign_5d_lots": -11507,
+        "trust_5d_lots": -1823,
+        "foreign_streak": -1,
+        "trust_streak": -2
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 10654,
+        "margin_chg_1d_lots": -141,
+        "margin_chg_5d_lots": 264,
+        "short_balance_lots": 285
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 60.17,
+        "chg_20d_pct_pt": -1.43
+      }
+    },
+    {
+      "code": "3406",
+      "name": "玉晶光",
+      "date": "2026-10-29",
+      "close": 1200.0,
+      "chg_1d_pct": -9.77,
+      "chg_5d_pct": 15.38,
+      "chg_20d_pct": 33.19,
+      "ma60": 892.97,
+      "ma120": 748.79,
+      "bias_ma60_pct": 34.38,
+      "bias_ma120_pct": 60.26,
+      "days_vs_ma60": 51,
+      "days_vs_ma120": 56,
+      "rsi14": 59.5,
+      "volume_ratio_20d": 0.88,
+      "high_250d": 1330.0,
+      "drawdown_from_250d_high_pct": -9.77,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": 257,
+        "trust_net_lots": 159,
+        "dealer_net_lots": 185,
+        "foreign_5d_lots": -1735,
+        "trust_5d_lots": 1411,
+        "foreign_streak": 1,
+        "trust_streak": 4
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 5819,
+        "margin_chg_1d_lots": 125,
+        "margin_chg_5d_lots": 801,
+        "short_balance_lots": 388
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 32.59,
+        "chg_20d_pct_pt": -6.7
+      }
+    },
+    {
+      "code": "2313",
+      "name": "華通",
+      "date": "2026-10-29",
+      "close": 213.5,
+      "chg_1d_pct": -4.69,
+      "chg_5d_pct": -12.32,
+      "chg_20d_pct": -4.04,
+      "ma60": 226.22,
+      "ma120": 234.03,
+      "bias_ma60_pct": -5.62,
+      "bias_ma120_pct": -8.77,
+      "days_vs_ma60": -3,
+      "days_vs_ma120": -4,
+      "rsi14": 40.7,
+      "volume_ratio_20d": 0.52,
+      "high_250d": 298.5,
+      "drawdown_from_250d_high_pct": -28.48,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": -6161,
+        "trust_net_lots": -45,
+        "dealer_net_lots": -369,
+        "foreign_5d_lots": -30668,
+        "trust_5d_lots": 482,
+        "foreign_streak": -1,
+        "trust_streak": -2
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 36048,
+        "margin_chg_1d_lots": -518,
+        "margin_chg_5d_lots": 789,
+        "short_balance_lots": 352
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 18.77,
+        "chg_20d_pct_pt": 0.1
+      }
+    },
+    {
+      "code": "6451",
+      "name": "訊芯-KY",
+      "date": "2026-10-29",
+      "close": 360.0,
+      "chg_1d_pct": -2.17,
+      "chg_5d_pct": 2.13,
+      "chg_20d_pct": -12.62,
+      "ma60": 416.39,
+      "ma120": 470.39,
+      "bias_ma60_pct": -13.54,
+      "bias_ma120_pct": -23.47,
+      "days_vs_ma60": -15,
+      "days_vs_ma120": -36,
+      "rsi14": 40.8,
+      "volume_ratio_20d": 0.8,
+      "high_250d": 724.0,
+      "drawdown_from_250d_high_pct": -50.28,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": -204,
+        "trust_net_lots": 0,
+        "dealer_net_lots": -7,
+        "foreign_5d_lots": 292,
+        "trust_5d_lots": 0,
+        "foreign_streak": -1,
+        "trust_streak": 0
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 7882,
+        "margin_chg_1d_lots": -3,
+        "margin_chg_5d_lots": -285,
+        "short_balance_lots": 33
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 63.4,
+        "chg_20d_pct_pt": 0.22
+      }
+    },
+    {
+      "code": "2337",
+      "name": "旺宏",
+      "date": "2026-10-29",
+      "close": 100.0,
+      "chg_1d_pct": -3.38,
+      "chg_5d_pct": 0.0,
+      "chg_20d_pct": -14.53,
+      "ma60": 118.64,
+      "ma120": 133.68,
+      "bias_ma60_pct": -15.71,
+      "bias_ma120_pct": -25.2,
+      "days_vs_ma60": -81,
+      "days_vs_ma120": -66,
+      "rsi14": 36.1,
+      "volume_ratio_20d": 2.03,
+      "high_250d": 185.5,
+      "drawdown_from_250d_high_pct": -46.09,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": -18674,
+        "trust_net_lots": 8,
+        "dealer_net_lots": -335,
+        "foreign_5d_lots": -46141,
+        "trust_5d_lots": 267,
+        "foreign_streak": -2,
+        "trust_streak": 7
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 88128,
+        "margin_chg_1d_lots": 1269,
+        "margin_chg_5d_lots": 7178,
+        "short_balance_lots": 1166
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 20.3,
+        "chg_20d_pct_pt": -3.89
+      }
+    },
+    {
+      "code": "6223",
+      "name": "旺矽",
+      "date": "2026-10-29",
+      "close": 4840.0,
+      "chg_1d_pct": -5.38,
+      "chg_5d_pct": -1.22,
+      "chg_20d_pct": -10.62,
+      "ma60": 5527.17,
+      "ma120": 5784.08,
+      "bias_ma60_pct": -12.43,
+      "bias_ma120_pct": -16.32,
+      "days_vs_ma60": -9,
+      "days_vs_ma120": -9,
+      "rsi14": 41.2,
+      "volume_ratio_20d": 0.67,
+      "high_250d": 7380.0,
+      "drawdown_from_250d_high_pct": -34.42,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": -85,
+        "trust_net_lots": 56,
+        "dealer_net_lots": 6,
+        "foreign_5d_lots": -64,
+        "trust_5d_lots": 280,
+        "foreign_streak": -1,
+        "trust_streak": 4
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 1257,
+        "margin_chg_1d_lots": -26,
+        "margin_chg_5d_lots": -70,
+        "short_balance_lots": 1
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 31.11,
+        "chg_20d_pct_pt": 1.05
+      }
+    },
+    {
+      "code": "3443",
+      "name": "創意",
+      "date": "2026-10-29",
+      "close": 7640.0,
+      "chg_1d_pct": -6.49,
+      "chg_5d_pct": -1.36,
+      "chg_20d_pct": -10.38,
+      "ma60": 6542.42,
+      "ma120": 5572.83,
+      "bias_ma60_pct": 16.78,
+      "bias_ma120_pct": 37.09,
+      "days_vs_ma60": 55,
+      "days_vs_ma120": 60,
+      "rsi14": 50.7,
+      "volume_ratio_20d": 1.29,
+      "high_250d": 8600.0,
+      "drawdown_from_250d_high_pct": -11.16,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": 53,
+        "trust_net_lots": 82,
+        "dealer_net_lots": 40,
+        "foreign_5d_lots": 53,
+        "trust_5d_lots": 323,
+        "foreign_streak": 1,
+        "trust_streak": 2
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 4460,
+        "margin_chg_1d_lots": 0,
+        "margin_chg_5d_lots": -121,
+        "short_balance_lots": 241
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 27.45,
+        "chg_20d_pct_pt": 0.26
+      }
+    },
+    {
+      "code": "3661",
+      "name": "世芯-KY",
+      "date": "2026-10-29",
+      "close": 3680.0,
+      "chg_1d_pct": -3.16,
+      "chg_5d_pct": 1.1,
+      "chg_20d_pct": -2.39,
+      "ma60": 3812.67,
+      "ma120": 4023.42,
+      "bias_ma60_pct": -3.48,
+      "bias_ma120_pct": -8.54,
+      "days_vs_ma60": -1,
+      "days_vs_ma120": -11,
+      "rsi14": 46.6,
+      "volume_ratio_20d": 0.73,
+      "high_250d": 5375.0,
+      "drawdown_from_250d_high_pct": -31.53,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": -185,
+        "trust_net_lots": 63,
+        "dealer_net_lots": -44,
+        "foreign_5d_lots": 145,
+        "trust_5d_lots": 137,
+        "foreign_streak": -1,
+        "trust_streak": 17
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 5493,
+        "margin_chg_1d_lots": -28,
+        "margin_chg_5d_lots": -285,
+        "short_balance_lots": 17
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 50.18,
+        "chg_20d_pct_pt": -0.27
+      }
+    },
+    {
+      "code": "3037",
+      "name": "欣興",
+      "date": "2026-10-29",
+      "close": 1040.0,
+      "chg_1d_pct": -5.45,
+      "chg_5d_pct": -1.42,
+      "chg_20d_pct": -12.24,
+      "ma60": 1067.58,
+      "ma120": 991.05,
+      "bias_ma60_pct": -2.58,
+      "bias_ma120_pct": 4.94,
+      "days_vs_ma60": -1,
+      "days_vs_ma120": 60,
+      "rsi14": 42.6,
+      "volume_ratio_20d": 0.92,
+      "high_250d": 1325.0,
+      "drawdown_from_250d_high_pct": -21.51,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": -2458,
+        "trust_net_lots": 476,
+        "dealer_net_lots": 96,
+        "foreign_5d_lots": -8898,
+        "trust_5d_lots": 5468,
+        "foreign_streak": -3,
+        "trust_streak": 10
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 35473,
+        "margin_chg_1d_lots": -118,
+        "margin_chg_5d_lots": 868,
+        "short_balance_lots": 266
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 41.33,
+        "chg_20d_pct_pt": -0.62
+      }
+    },
+    {
+      "code": "1519",
+      "name": "華城",
+      "date": "2026-10-29",
+      "close": 563.0,
+      "chg_1d_pct": -4.9,
+      "chg_5d_pct": -10.78,
+      "chg_20d_pct": -19.46,
+      "ma60": 696.05,
+      "ma120": 744.3,
+      "bias_ma60_pct": -19.12,
+      "bias_ma120_pct": -24.36,
+      "days_vs_ma60": -11,
+      "days_vs_ma120": -98,
+      "rsi14": 27.1,
+      "volume_ratio_20d": 0.97,
+      "high_250d": 1080.0,
+      "drawdown_from_250d_high_pct": -47.87,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": -642,
+        "trust_net_lots": 0,
+        "dealer_net_lots": -13,
+        "foreign_5d_lots": -1241,
+        "trust_5d_lots": -1,
+        "foreign_streak": -1,
+        "trust_streak": 0
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 3529,
+        "margin_chg_1d_lots": -11,
+        "margin_chg_5d_lots": 45,
+        "short_balance_lots": 63
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 16.88,
+        "chg_20d_pct_pt": -1.34
+      }
+    },
+    {
+      "code": "1513",
+      "name": "中興電",
+      "date": "2026-10-29",
+      "close": 157.0,
+      "chg_1d_pct": -1.26,
+      "chg_5d_pct": -2.48,
+      "chg_20d_pct": -5.42,
+      "ma60": 164.47,
+      "ma120": 165.15,
+      "bias_ma60_pct": -4.54,
+      "bias_ma120_pct": -4.93,
+      "days_vs_ma60": -7,
+      "days_vs_ma120": -7,
+      "rsi14": 33.5,
+      "volume_ratio_20d": 0.69,
+      "high_250d": 187.0,
+      "drawdown_from_250d_high_pct": -16.04,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": 8,
+        "trust_net_lots": 1,
+        "dealer_net_lots": -21,
+        "foreign_5d_lots": -66,
+        "trust_5d_lots": -350,
+        "foreign_streak": 1,
+        "trust_streak": 2
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 6472,
+        "margin_chg_1d_lots": 9,
+        "margin_chg_5d_lots": 10,
+        "short_balance_lots": 26
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 13.47,
+        "chg_20d_pct_pt": 0.45
+      }
+    },
+    {
+      "code": "2382",
+      "name": "廣達",
+      "date": "2026-10-29",
+      "close": 318.0,
+      "chg_1d_pct": -3.64,
+      "chg_5d_pct": -0.78,
+      "chg_20d_pct": -6.06,
+      "ma60": 327.78,
+      "ma120": 339.01,
+      "bias_ma60_pct": -2.98,
+      "bias_ma120_pct": -6.2,
+      "days_vs_ma60": -1,
+      "days_vs_ma120": -20,
+      "rsi14": 42.6,
+      "volume_ratio_20d": 1.02,
+      "high_250d": 417.0,
+      "drawdown_from_250d_high_pct": -23.74,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": -2921,
+        "trust_net_lots": 288,
+        "dealer_net_lots": 19,
+        "foreign_5d_lots": 6967,
+        "trust_5d_lots": 2346,
+        "foreign_streak": -1,
+        "trust_streak": 10
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 15378,
+        "margin_chg_1d_lots": 333,
+        "margin_chg_5d_lots": -144,
+        "short_balance_lots": 38
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 23.13,
+        "chg_20d_pct_pt": -0.31
+      }
+    },
+    {
+      "code": "6526",
+      "name": "達發",
+      "date": "2026-10-29",
+      "close": 776.0,
+      "chg_1d_pct": -3.36,
+      "chg_5d_pct": -3.12,
+      "chg_20d_pct": -7.62,
+      "ma60": 688.32,
+      "ma120": 673.32,
+      "bias_ma60_pct": 12.74,
+      "bias_ma120_pct": 15.25,
+      "days_vs_ma60": 38,
+      "days_vs_ma120": 41,
+      "rsi14": 52.0,
+      "volume_ratio_20d": 0.49,
+      "high_250d": 842.0,
+      "drawdown_from_250d_high_pct": -7.84,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": -125,
+        "trust_net_lots": 26,
+        "dealer_net_lots": -27,
+        "foreign_5d_lots": 390,
+        "trust_5d_lots": 22,
+        "foreign_streak": -1,
+        "trust_streak": 2
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 2055,
+        "margin_chg_1d_lots": 54,
+        "margin_chg_5d_lots": 73,
+        "short_balance_lots": 4
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 10.94,
+        "chg_20d_pct_pt": 0.15
+      }
+    },
+    {
+      "code": "7769",
+      "name": "鴻勁",
+      "date": "2026-10-29",
+      "close": 5190.0,
+      "chg_1d_pct": -6.74,
+      "chg_5d_pct": -0.29,
+      "chg_20d_pct": -8.47,
+      "ma60": 6061.5,
+      "ma120": 6432.79,
+      "bias_ma60_pct": -14.38,
+      "bias_ma120_pct": -19.32,
+      "days_vs_ma60": -11,
+      "days_vs_ma120": -11,
+      "rsi14": 41.5,
+      "volume_ratio_20d": 0.89,
+      "high_250d": 8260.0,
+      "drawdown_from_250d_high_pct": -37.17,
+      "institutional": {
+        "date": "2026-10-29",
+        "foreign_net_lots": 28,
+        "trust_net_lots": 1,
+        "dealer_net_lots": 1,
+        "foreign_5d_lots": -119,
+        "trust_5d_lots": 453,
+        "foreign_streak": 2,
+        "trust_streak": 4
+      },
+      "margin": {
+        "date": "2026-10-29",
+        "margin_balance_lots": 621,
+        "margin_chg_1d_lots": -2,
+        "margin_chg_5d_lots": -60,
+        "short_balance_lots": 5
+      },
+      "foreign_holding": {
+        "date": "2026-10-29",
+        "ratio_pct": 19.68,
+        "chg_20d_pct_pt": -0.39
+      }
+    }
+  ],
+  "errors": [],
+  "notes": {
+    "crash_light": "紅燈 距歷史高點跌逾20%；橙燈 跌破半年線；黃燈 跌破季線；綠燈 站上季線",
+    "units": "個股法人與融資單位為張；大盤法人單位為億元；量比為當日量除以20日均量",
+    "days_vs_ma": "正數為連續站上均線天數，負數為連續在均線下方天數"
+  }
+}
