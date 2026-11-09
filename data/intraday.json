@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-11-06 17:57 UTC+08:00",
-  "trade_date": "20261106",
+  "generated_at": "2026-11-09 18:27 UTC+08:00",
+  "trade_date": "20261109",
   "market_open_today": true,
   "market": {
     "taiex": {
-      "price": 39690.74,
-      "chg_pct": -4.53,
-      "bias_ma60_pct": -14.63,
-      "bias_ma120_pct": -12.5,
-      "drawdown_from_high_pct": -20.34,
+      "price": 41661.7,
+      "chg_pct": 4.94,
+      "bias_ma60_pct": -10.24,
+      "bias_ma120_pct": -8.13,
+      "drawdown_from_high_pct": -16.38,
       "signal_ma60": null,
       "signal_ma120": null,
-      "time": "13:19:50"
+      "time": "13:33:00"
     },
     "tpex": {
-      "price": 303.78,
-      "chg_pct": -5.5,
-      "bias_ma60_pct": -23.79,
-      "bias_ma120_pct": -25.1,
-      "drawdown_from_high_pct": -33.01,
+      "price": 321.97,
+      "chg_pct": 5.9,
+      "bias_ma60_pct": -18.96,
+      "bias_ma120_pct": -20.42,
+      "drawdown_from_high_pct": -29.0,
       "signal_ma60": null,
       "signal_ma120": null,
-      "time": "13:19:50"
+      "time": "13:33:00"
     }
   },
   "stocks": [
@@ -29,362 +29,365 @@
       "code": "2330",
       "name": "台積電",
       "is_holding": true,
-      "price": 2135.0,
-      "chg_pct": -4.69,
-      "high": 2195.0,
-      "low": 2020.0,
-      "volume_lots": 89980.0,
-      "est_volume_ratio": 2.71,
-      "bias_ma60_pct": -12.0,
-      "bias_ma120_pct": -10.67,
-      "signals": [
-        "預估爆量 2.71 倍"
-      ],
-      "time": "13:19:50"
+      "price": 2235.0,
+      "chg_pct": 4.68,
+      "high": 2290.0,
+      "low": 2190.0,
+      "volume_lots": 41343.0,
+      "est_volume_ratio": 1.1,
+      "bias_ma60_pct": -7.72,
+      "bias_ma120_pct": -6.46,
+      "signals": [],
+      "time": "13:30:00"
     },
     {
       "code": "8299",
       "name": "群聯",
       "is_holding": true,
-      "price": 1490.0,
-      "chg_pct": -4.49,
-      "high": 1520.0,
-      "low": 1405.0,
-      "volume_lots": 5448.0,
-      "est_volume_ratio": 1.81,
-      "bias_ma60_pct": -26.45,
-      "bias_ma120_pct": -30.18,
-      "signals": [],
-      "time": "13:19:48"
+      "price": 1650.0,
+      "chg_pct": 10.0,
+      "high": 1650.0,
+      "low": 1645.0,
+      "volume_lots": 1117.0,
+      "est_volume_ratio": 0.34,
+      "bias_ma60_pct": -18.21,
+      "bias_ma120_pct": -22.34,
+      "signals": [
+        "漲停"
+      ],
+      "time": "13:30:00"
     },
     {
       "code": "2327",
       "name": "國巨",
       "is_holding": true,
-      "price": 373.0,
-      "chg_pct": -7.79,
-      "high": 382.0,
-      "low": 364.5,
-      "volume_lots": 52527.0,
-      "est_volume_ratio": 1.16,
-      "bias_ma60_pct": -33.59,
-      "bias_ma120_pct": -43.93,
+      "price": 411.0,
+      "chg_pct": 9.89,
+      "high": 411.0,
+      "low": 387.0,
+      "volume_lots": 16638.0,
+      "est_volume_ratio": 0.36,
+      "bias_ma60_pct": -26.46,
+      "bias_ma120_pct": -38.18,
       "signals": [
-        "大跌 -7.79%"
+        "漲停"
       ],
-      "time": "13:19:50"
+      "time": "13:30:00"
     },
     {
       "code": "3035",
       "name": "智原",
       "is_holding": false,
-      "price": 159.5,
-      "chg_pct": -7.0,
-      "high": 164.0,
-      "low": 154.5,
-      "volume_lots": 6814.0,
-      "est_volume_ratio": 0.83,
-      "bias_ma60_pct": -15.59,
-      "bias_ma120_pct": -17.6,
+      "price": 172.0,
+      "chg_pct": 7.17,
+      "high": 175.5,
+      "low": 162.0,
+      "volume_lots": 4458.0,
+      "est_volume_ratio": 0.53,
+      "bias_ma60_pct": -8.88,
+      "bias_ma120_pct": -11.01,
       "signals": [
-        "大跌 -7.0%"
+        "大漲 +7.17%"
       ],
-      "time": "13:19:51"
+      "time": "13:30:00"
     },
     {
       "code": "3529",
       "name": "力旺",
       "is_holding": false,
-      "price": 1875.0,
-      "chg_pct": -7.41,
-      "high": 1935.0,
-      "low": 1825.0,
-      "volume_lots": 940.0,
-      "est_volume_ratio": 0.93,
-      "bias_ma60_pct": -29.62,
-      "bias_ma120_pct": -33.67,
+      "price": 2015.0,
+      "chg_pct": 6.9,
+      "high": 2045.0,
+      "low": 1930.0,
+      "volume_lots": 620.0,
+      "est_volume_ratio": 0.61,
+      "bias_ma60_pct": -23.96,
+      "bias_ma120_pct": -28.29,
       "signals": [
-        "大跌 -7.41%"
+        "大漲 +6.9%"
       ],
-      "time": "13:19:50"
+      "time": "13:30:00"
     },
     {
       "code": "6531",
       "name": "愛普",
       "is_holding": false,
-      "price": 604.0,
-      "chg_pct": -6.79,
-      "high": 630.0,
-      "low": 584.0,
-      "volume_lots": 3753.0,
-      "est_volume_ratio": 0.92,
-      "bias_ma60_pct": -32.94,
-      "bias_ma120_pct": -34.56,
+      "price": 668.0,
+      "chg_pct": 9.87,
+      "high": 668.0,
+      "low": 612.0,
+      "volume_lots": 5456.0,
+      "est_volume_ratio": 1.34,
+      "bias_ma60_pct": -25.36,
+      "bias_ma120_pct": -27.34,
       "signals": [
-        "大跌 -6.79%"
+        "漲停"
       ],
-      "time": "13:19:48"
+      "time": "13:30:00"
     },
     {
       "code": "2454",
       "name": "聯發科",
       "is_holding": false,
-      "price": 3400.0,
-      "chg_pct": -1.73,
-      "high": 3480.0,
-      "low": 3115.0,
-      "volume_lots": 19910.0,
-      "est_volume_ratio": 1.94,
-      "bias_ma60_pct": -21.49,
-      "bias_ma120_pct": -18.12,
-      "signals": [],
-      "time": "13:19:51"
+      "price": 3725.0,
+      "chg_pct": 9.88,
+      "high": 3725.0,
+      "low": 3450.0,
+      "volume_lots": 9177.0,
+      "est_volume_ratio": 0.84,
+      "bias_ma60_pct": -13.82,
+      "bias_ma120_pct": -10.27,
+      "signals": [
+        "漲停"
+      ],
+      "time": "13:30:00"
     },
     {
       "code": "6669",
       "name": "緯穎",
       "is_holding": false,
-      "price": 1545.0,
-      "chg_pct": -6.36,
-      "high": 1610.0,
-      "low": 1485.0,
-      "volume_lots": 6608.0,
-      "est_volume_ratio": 1.25,
-      "bias_ma60_pct": -27.52,
-      "bias_ma120_pct": -20.12,
+      "price": 1645.0,
+      "chg_pct": 5.79,
+      "high": 1700.0,
+      "low": 1570.0,
+      "volume_lots": 4108.0,
+      "est_volume_ratio": 0.76,
+      "bias_ma60_pct": -22.54,
+      "bias_ma120_pct": -14.84,
       "signals": [
-        "大跌 -6.36%"
+        "大漲 +5.79%"
       ],
-      "time": "13:19:46"
+      "time": "13:30:00"
     },
     {
       "code": "2308",
       "name": "台達電",
       "is_holding": false,
-      "price": 1055.0,
-      "chg_pct": -6.64,
-      "high": 1070.0,
-      "low": 1020.0,
-      "volume_lots": 29873.0,
-      "est_volume_ratio": 2.04,
-      "bias_ma60_pct": -39.07,
-      "bias_ma120_pct": -43.65,
+      "price": 1160.0,
+      "chg_pct": 9.95,
+      "high": 1160.0,
+      "low": 1105.0,
+      "volume_lots": 16026.0,
+      "est_volume_ratio": 1.03,
+      "bias_ma60_pct": -32.62,
+      "bias_ma120_pct": -37.73,
       "signals": [
-        "大跌 -6.64%",
-        "預估爆量 2.04 倍"
+        "漲停"
       ],
-      "time": "13:19:50"
+      "time": "13:30:00"
     },
     {
       "code": "3406",
       "name": "玉晶光",
       "is_holding": false,
-      "price": 817.0,
-      "chg_pct": -3.43,
-      "high": 836.0,
-      "low": 762.0,
-      "volume_lots": 6517.0,
-      "est_volume_ratio": 0.81,
-      "bias_ma60_pct": -12.26,
-      "bias_ma120_pct": 6.42,
+      "price": 841.0,
+      "chg_pct": 1.94,
+      "high": 868.0,
+      "low": 800.0,
+      "volume_lots": 11266.0,
+      "est_volume_ratio": 1.41,
+      "bias_ma60_pct": -10.13,
+      "bias_ma120_pct": 9.18,
       "signals": [],
-      "time": "13:19:52"
+      "time": "13:30:00"
     },
     {
       "code": "2313",
       "name": "華通",
       "is_holding": false,
-      "price": 158.0,
-      "chg_pct": -4.53,
-      "high": 163.5,
-      "low": 149.0,
-      "volume_lots": 28262.0,
-      "est_volume_ratio": 0.82,
-      "bias_ma60_pct": -29.9,
-      "bias_ma120_pct": -31.72,
-      "signals": [],
-      "time": "13:19:49"
+      "price": 174.5,
+      "chg_pct": 9.75,
+      "high": 174.5,
+      "low": 159.0,
+      "volume_lots": 27672.0,
+      "est_volume_ratio": 0.89,
+      "bias_ma60_pct": -22.29,
+      "bias_ma120_pct": -24.38,
+      "signals": [
+        "漲停"
+      ],
+      "time": "13:30:00"
     },
     {
       "code": "6451",
       "name": "訊芯-KY",
       "is_holding": false,
-      "price": 243.0,
-      "chg_pct": -9.67,
-      "high": 253.5,
-      "low": 242.5,
-      "volume_lots": 2282.0,
-      "est_volume_ratio": 1.5,
-      "bias_ma60_pct": -40.52,
-      "bias_ma120_pct": -47.59,
+      "price": 267.0,
+      "chg_pct": 9.88,
+      "high": 267.0,
+      "low": 250.0,
+      "volume_lots": 1871.0,
+      "est_volume_ratio": 1.19,
+      "bias_ma60_pct": -34.16,
+      "bias_ma120_pct": -42.17,
       "signals": [
-        "跌停"
+        "漲停"
       ],
-      "time": "13:19:48"
+      "time": "13:30:00"
     },
     {
       "code": "2337",
       "name": "旺宏",
       "is_holding": false,
-      "price": 75.7,
-      "chg_pct": -5.02,
-      "high": 78.1,
-      "low": 71.8,
-      "volume_lots": 57327.0,
-      "est_volume_ratio": 1.47,
-      "bias_ma60_pct": -35.0,
-      "bias_ma120_pct": -42.09,
+      "price": 83.3,
+      "chg_pct": 9.89,
+      "high": 83.3,
+      "low": 77.6,
+      "volume_lots": 18378.0,
+      "est_volume_ratio": 0.45,
+      "bias_ma60_pct": -28.0,
+      "bias_ma120_pct": -35.9,
       "signals": [
-        "大跌 -5.02%"
+        "漲停"
       ],
-      "time": "13:19:50"
+      "time": "13:30:00"
     },
     {
       "code": "6223",
       "name": "旺矽",
       "is_holding": false,
-      "price": 3420.0,
-      "chg_pct": -8.19,
-      "high": 3575.0,
-      "low": 3355.0,
-      "volume_lots": 1184.0,
-      "est_volume_ratio": 1.12,
-      "bias_ma60_pct": -36.55,
-      "bias_ma120_pct": -40.52,
+      "price": 3705.0,
+      "chg_pct": 7.55,
+      "high": 3785.0,
+      "low": 3465.0,
+      "volume_lots": 977.0,
+      "est_volume_ratio": 0.91,
+      "bias_ma60_pct": -30.7,
+      "bias_ma120_pct": -35.35,
       "signals": [
-        "大跌 -8.19%"
+        "大漲 +7.55%"
       ],
-      "time": "13:19:50"
+      "time": "13:30:00"
     },
     {
       "code": "3443",
       "name": "創意",
       "is_holding": false,
-      "price": 6170.0,
-      "chg_pct": -3.67,
-      "high": 6460.0,
-      "low": 5765.0,
-      "volume_lots": 4007.0,
-      "est_volume_ratio": 1.98,
-      "bias_ma60_pct": -8.99,
-      "bias_ma120_pct": 9.36,
-      "signals": [],
-      "time": "13:19:52"
+      "price": 6705.0,
+      "chg_pct": 8.06,
+      "high": 6825.0,
+      "low": 6285.0,
+      "volume_lots": 4089.0,
+      "est_volume_ratio": 1.91,
+      "bias_ma60_pct": -1.5,
+      "bias_ma120_pct": 18.68,
+      "signals": [
+        "大漲 +8.06%"
+      ],
+      "time": "13:30:00"
     },
     {
       "code": "3661",
       "name": "世芯-KY",
       "is_holding": false,
-      "price": 2825.0,
-      "chg_pct": -4.56,
-      "high": 2875.0,
-      "low": 2665.0,
-      "volume_lots": 2794.0,
-      "est_volume_ratio": 1.16,
-      "bias_ma60_pct": -25.62,
-      "bias_ma120_pct": -28.48,
-      "signals": [],
-      "time": "13:19:50"
+      "price": 3110.0,
+      "chg_pct": 9.89,
+      "high": 3110.0,
+      "low": 3110.0,
+      "volume_lots": 521.0,
+      "est_volume_ratio": 0.22,
+      "bias_ma60_pct": -17.8,
+      "bias_ma120_pct": -20.94,
+      "signals": [
+        "漲停"
+      ],
+      "time": "13:30:00"
     },
     {
       "code": "3037",
       "name": "欣興",
       "is_holding": false,
-      "price": 726.0,
-      "chg_pct": -9.25,
-      "high": 771.0,
-      "low": 720.0,
-      "volume_lots": 33720.0,
-      "est_volume_ratio": 1.74,
-      "bias_ma60_pct": -32.06,
-      "bias_ma120_pct": -26.91,
-      "signals": [
-        "大跌 -9.25%"
-      ],
-      "time": "13:19:51"
+      "price": 757.0,
+      "chg_pct": 4.13,
+      "high": 782.0,
+      "low": 722.0,
+      "volume_lots": 41098.0,
+      "est_volume_ratio": 1.99,
+      "bias_ma60_pct": -28.9,
+      "bias_ma120_pct": -23.68,
+      "signals": [],
+      "time": "13:30:00"
     },
     {
       "code": "1519",
       "name": "華城",
       "is_holding": false,
-      "price": 450.0,
-      "chg_pct": -8.81,
-      "high": 467.0,
-      "low": 444.5,
-      "volume_lots": 1937.0,
-      "est_volume_ratio": 0.96,
-      "bias_ma60_pct": -34.05,
-      "bias_ma120_pct": -38.24,
+      "price": 497.0,
+      "chg_pct": 9.96,
+      "high": 497.0,
+      "low": 460.0,
+      "volume_lots": 1230.0,
+      "est_volume_ratio": 0.59,
+      "bias_ma60_pct": -26.8,
+      "bias_ma120_pct": -31.44,
       "signals": [
-        "大跌 -8.81%"
+        "漲停"
       ],
-      "time": "13:19:50"
+      "time": "13:30:00"
     },
     {
       "code": "1513",
       "name": "中興電",
       "is_holding": false,
-      "price": 137.5,
-      "chg_pct": -4.18,
-      "high": 139.0,
-      "low": 131.0,
-      "volume_lots": 3682.0,
-      "est_volume_ratio": 1.66,
-      "bias_ma60_pct": -16.02,
-      "bias_ma120_pct": -16.57,
+      "price": 145.0,
+      "chg_pct": 4.69,
+      "high": 147.5,
+      "low": 139.5,
+      "volume_lots": 2241.0,
+      "est_volume_ratio": 0.95,
+      "bias_ma60_pct": -11.27,
+      "bias_ma120_pct": -11.95,
       "signals": [],
-      "time": "13:19:49"
+      "time": "13:30:00"
     },
     {
       "code": "2382",
       "name": "廣達",
       "is_holding": false,
-      "price": 288.5,
-      "chg_pct": -3.83,
-      "high": 294.5,
-      "low": 272.0,
-      "volume_lots": 33961.0,
-      "est_volume_ratio": 2.89,
-      "bias_ma60_pct": -12.23,
-      "bias_ma120_pct": -14.55,
-      "signals": [
-        "預估爆量 2.89 倍"
-      ],
-      "time": "13:19:51"
+      "price": 296.5,
+      "chg_pct": 2.07,
+      "high": 304.0,
+      "low": 290.0,
+      "volume_lots": 18932.0,
+      "est_volume_ratio": 1.44,
+      "bias_ma60_pct": -9.76,
+      "bias_ma120_pct": -12.08,
+      "signals": [],
+      "time": "13:30:00"
     },
     {
       "code": "6526",
       "name": "達發",
       "is_holding": false,
-      "price": 621.0,
-      "chg_pct": -6.05,
-      "high": 635.0,
-      "low": 595.0,
-      "volume_lots": 1189.0,
-      "est_volume_ratio": 0.83,
-      "bias_ma60_pct": -11.3,
-      "bias_ma120_pct": -7.78,
+      "price": 666.0,
+      "chg_pct": 6.73,
+      "high": 679.0,
+      "low": 628.0,
+      "volume_lots": 1046.0,
+      "est_volume_ratio": 0.71,
+      "bias_ma60_pct": -4.87,
+      "bias_ma120_pct": -1.0,
       "signals": [
-        "大跌 -6.05%"
+        "大漲 +6.73%"
       ],
-      "time": "13:19:46"
+      "time": "13:30:00"
     },
     {
       "code": "7769",
       "name": "鴻勁",
       "is_holding": false,
-      "price": 3675.0,
-      "chg_pct": -7.66,
-      "high": 3800.0,
-      "low": 3585.0,
-      "volume_lots": 1503.0,
-      "est_volume_ratio": 1.7,
-      "bias_ma60_pct": -37.81,
-      "bias_ma120_pct": -42.28,
+      "price": 4040.0,
+      "chg_pct": 9.93,
+      "high": 4040.0,
+      "low": 3765.0,
+      "volume_lots": 669.0,
+      "est_volume_ratio": 0.73,
+      "bias_ma60_pct": -31.12,
+      "bias_ma120_pct": -36.23,
       "signals": [
-        "大跌 -7.66%"
+        "漲停"
       ],
-      "time": "13:19:45"
+      "time": "13:30:00"
     }
   ],
   "errors": [],
