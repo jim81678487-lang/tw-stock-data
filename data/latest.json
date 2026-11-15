@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14 10:57 UTC+08:00",
+  "generated_at": "2026-11-15 10:27 UTC+08:00",
   "data_date": "2026-11-13",
   "market": {
     "taiex": {
@@ -86,7 +86,7 @@
         "foreign_5d_lots": -17476,
         "trust_5d_lots": 14914,
         "foreign_streak": -2,
-        "trust_streak": 30
+        "trust_streak": 29
       },
       "margin": {
         "date": "2026-11-13",
