@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24 14:49 UTC+08:00",
+  "generated_at": "2026-11-25 13:17 UTC+08:00",
   "data_date": "2026-11-24",
   "market": {
     "taiex": {
@@ -15,8 +15,8 @@
       "days_vs_ma60": -19,
       "days_vs_ma120": -18,
       "rsi14": 42.9,
-      "volume_ratio_20d": 0.0,
-      "avg_volume_20d": 9289.8,
+      "volume_ratio_20d": 0.46,
+      "avg_volume_20d": 9506.0,
       "high_250d": 49822.55,
       "drawdown_from_250d_high_pct": -19.47,
       "high_in_history": 49822.55,
@@ -37,8 +37,8 @@
       "days_vs_ma60": -25,
       "days_vs_ma120": -27,
       "rsi14": 36.8,
-      "volume_ratio_20d": 0.0,
-      "avg_volume_20d": 1738.9,
+      "volume_ratio_20d": 0.24,
+      "avg_volume_20d": 1760.3,
       "high_250d": 453.5,
       "drawdown_from_250d_high_pct": -35.34,
       "high_in_history": 453.5,
@@ -47,15 +47,15 @@
       "red_light_level": 362.8
     },
     "institutional_total": {
-      "date": "2026-11-23",
-      "foreign_net_100m": -289.48,
-      "trust_net_100m": -41.55,
-      "dealer_net_100m": -190.01,
-      "total_net_100m": -521.04
+      "date": "2026-11-24",
+      "foreign_net_100m": -503.9,
+      "trust_net_100m": 97.63,
+      "dealer_net_100m": -810.25,
+      "total_net_100m": -1216.52
     },
     "margin_total": {
-      "date": "2026-11-23",
-      "margin_money_chg_pct": -0.33
+      "date": "2026-11-24",
+      "margin_money_chg_pct": 4.54
     }
   },
   "holdings": [
@@ -74,75 +74,74 @@
       "days_vs_ma60": -26,
       "days_vs_ma120": -9,
       "rsi14": 47.5,
-      "volume_ratio_20d": 0.23,
-      "avg_volume_20d": 47238.7,
+      "volume_ratio_20d": 0.28,
+      "avg_volume_20d": 47357.7,
       "high_250d": 2585.0,
       "drawdown_from_250d_high_pct": -13.73,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": -11039,
-        "trust_net_lots": 1294,
-        "dealer_net_lots": 2665,
-        "foreign_5d_lots": -61595,
-        "trust_5d_lots": 4684,
-        "foreign_streak": -8,
-        "trust_streak": 1
+        "date": "2026-11-24",
+        "foreign_net_lots": -4098,
+        "trust_net_lots": 918,
+        "dealer_net_lots": 388,
+        "foreign_5d_lots": -51088,
+        "trust_5d_lots": 3326,
+        "foreign_streak": -9,
+        "trust_streak": 2
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 30970,
-        "margin_chg_1d_lots": 1206,
-        "margin_chg_5d_lots": -1733,
-        "short_balance_lots": 53
+        "date": "2026-11-24",
+        "margin_balance_lots": 31287,
+        "margin_chg_1d_lots": 317,
+        "margin_chg_5d_lots": -1539,
+        "short_balance_lots": 52
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 67.76,
-        "chg_20d_pct_pt": -0.82
+        "date": "2026-11-24",
+        "ratio_pct": 67.75,
+        "chg_20d_pct_pt": -0.81
       }
     },
     {
       "code": "8299",
       "name": "群聯",
-      "date": "2026-11-23",
-      "close": 1450.0,
-      "chg_1d_pct": 9.85,
-      "chg_5d_pct": -4.29,
-      "chg_20d_pct": -22.87,
-      "ma60": 1920.08,
-      "ma120": 2036.83,
-      "bias_ma60_pct": -24.48,
-      "bias_ma120_pct": -28.81,
-      "days_vs_ma60": -17,
-      "days_vs_ma120": -35,
-      "rsi14": 37.1,
-      "volume_ratio_20d": 1.38,
-      "avg_volume_20d": 4406.9,
+      "date": "2026-11-24",
+      "close": 1595.0,
+      "chg_1d_pct": 10.0,
+      "chg_5d_pct": 3.91,
+      "chg_20d_pct": -16.49,
+      "ma60": 1911.92,
+      "ma120": 2028.67,
+      "bias_ma60_pct": -16.58,
+      "bias_ma120_pct": -21.38,
+      "days_vs_ma60": -18,
+      "days_vs_ma120": -36,
+      "rsi14": 45.6,
+      "volume_ratio_20d": 0.12,
+      "avg_volume_20d": 4292.3,
       "high_250d": 2880.0,
-      "drawdown_from_250d_high_pct": -49.65,
+      "drawdown_from_250d_high_pct": -44.62,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": 904,
-        "trust_net_lots": 133,
-        "dealer_net_lots": -9,
-        "foreign_5d_lots": 2963,
-        "trust_5d_lots": 163,
-        "foreign_streak": 3,
-        "trust_streak": 3
+        "date": "2026-11-24",
+        "foreign_net_lots": -181,
+        "trust_net_lots": 0,
+        "dealer_net_lots": 26,
+        "foreign_5d_lots": 2577,
+        "trust_5d_lots": 123,
+        "foreign_streak": -1,
+        "trust_streak": 0
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 7208,
-        "margin_chg_1d_lots": -238,
-        "margin_chg_5d_lots": -1567,
-        "short_balance_lots": 88
+        "date": "2026-11-24",
+        "margin_balance_lots": 7235,
+        "margin_chg_1d_lots": 27,
+        "margin_chg_5d_lots": -1423,
+        "short_balance_lots": 90
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 46.56,
-        "chg_20d_pct_pt": 2.12
-      },
-      "stale": true
+        "date": "2026-11-24",
+        "ratio_pct": 46.49,
+        "chg_20d_pct_pt": 1.74
+      }
     },
     {
       "code": "2327",
@@ -159,31 +158,31 @@
       "days_vs_ma60": -27,
       "days_vs_ma120": -31,
       "rsi14": 34.5,
-      "volume_ratio_20d": 0.05,
-      "avg_volume_20d": 46098.5,
+      "volume_ratio_20d": 0.06,
+      "avg_volume_20d": 46105.7,
       "high_250d": 1140.0,
       "drawdown_from_250d_high_pct": -70.09,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": 80,
-        "trust_net_lots": -6239,
-        "dealer_net_lots": 494,
-        "foreign_5d_lots": 11055,
-        "trust_5d_lots": -15606,
-        "foreign_streak": 3,
-        "trust_streak": -16
+        "date": "2026-11-24",
+        "foreign_net_lots": -996,
+        "trust_net_lots": -16,
+        "dealer_net_lots": 100,
+        "foreign_5d_lots": 7397,
+        "trust_5d_lots": -13229,
+        "foreign_streak": -1,
+        "trust_streak": -17
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 36118,
-        "margin_chg_1d_lots": 1427,
-        "margin_chg_5d_lots": -3042,
-        "short_balance_lots": 694
+        "date": "2026-11-24",
+        "margin_balance_lots": 36773,
+        "margin_chg_1d_lots": 655,
+        "margin_chg_5d_lots": -1786,
+        "short_balance_lots": 696
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 41.26,
-        "chg_20d_pct_pt": -0.43
+        "date": "2026-11-24",
+        "ratio_pct": 41.21,
+        "chg_20d_pct_pt": -0.74
       }
     }
   ],
@@ -203,75 +202,74 @@
       "days_vs_ma60": -7,
       "days_vs_ma120": -7,
       "rsi14": 47.5,
-      "volume_ratio_20d": 0.72,
-      "avg_volume_20d": 12210.6,
+      "volume_ratio_20d": 0.74,
+      "avg_volume_20d": 12221.5,
       "high_250d": 233.0,
       "drawdown_from_250d_high_pct": -23.61,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": 140,
-        "trust_net_lots": 0,
-        "dealer_net_lots": 122,
-        "foreign_5d_lots": -4001,
-        "trust_5d_lots": 41,
-        "foreign_streak": 1,
-        "trust_streak": 0
+        "date": "2026-11-24",
+        "foreign_net_lots": -1475,
+        "trust_net_lots": 1,
+        "dealer_net_lots": -366,
+        "foreign_5d_lots": -3755,
+        "trust_5d_lots": 24,
+        "foreign_streak": -1,
+        "trust_streak": 1
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 9915,
-        "margin_chg_1d_lots": 35,
-        "margin_chg_5d_lots": 738,
-        "short_balance_lots": 79
+        "date": "2026-11-24",
+        "margin_balance_lots": 9846,
+        "margin_chg_1d_lots": -69,
+        "margin_chg_5d_lots": -64,
+        "short_balance_lots": 83
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 17.75,
-        "chg_20d_pct_pt": -0.57
+        "date": "2026-11-24",
+        "ratio_pct": 16.84,
+        "chg_20d_pct_pt": -1.33
       }
     },
     {
       "code": "3529",
       "name": "力旺",
-      "date": "2026-11-23",
-      "close": 1895.0,
-      "chg_1d_pct": 5.28,
-      "chg_5d_pct": -11.86,
-      "chg_20d_pct": -23.74,
-      "ma60": 2586.75,
-      "ma120": 2678.62,
-      "bias_ma60_pct": -26.74,
-      "bias_ma120_pct": -29.25,
-      "days_vs_ma60": -23,
-      "days_vs_ma120": -31,
-      "rsi14": 36.4,
-      "volume_ratio_20d": 0.94,
-      "avg_volume_20d": 1086.9,
+      "date": "2026-11-24",
+      "close": 2025.0,
+      "chg_1d_pct": 6.86,
+      "chg_5d_pct": -7.11,
+      "chg_20d_pct": -19.48,
+      "ma60": 2583.92,
+      "ma120": 2667.08,
+      "bias_ma60_pct": -21.63,
+      "bias_ma120_pct": -24.07,
+      "days_vs_ma60": -24,
+      "days_vs_ma120": -32,
+      "rsi14": 41.6,
+      "volume_ratio_20d": 3.44,
+      "avg_volume_20d": 1253.3,
       "high_250d": 4705.0,
-      "drawdown_from_250d_high_pct": -59.72,
+      "drawdown_from_250d_high_pct": -56.96,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": 7,
-        "trust_net_lots": 2,
-        "dealer_net_lots": 7,
-        "foreign_5d_lots": -104,
-        "trust_5d_lots": 47,
-        "foreign_streak": 2,
-        "trust_streak": 2
+        "date": "2026-11-24",
+        "foreign_net_lots": -1569,
+        "trust_net_lots": 163,
+        "dealer_net_lots": 57,
+        "foreign_5d_lots": -1507,
+        "trust_5d_lots": 182,
+        "foreign_streak": -1,
+        "trust_streak": 3
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 1394,
-        "margin_chg_1d_lots": -21,
-        "margin_chg_5d_lots": -8,
-        "short_balance_lots": 0
+        "date": "2026-11-24",
+        "margin_balance_lots": 1758,
+        "margin_chg_1d_lots": 364,
+        "margin_chg_5d_lots": 337,
+        "short_balance_lots": 10
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 60.36,
-        "chg_20d_pct_pt": 1.42
-      },
-      "stale": true
+        "date": "2026-11-24",
+        "ratio_pct": 58.26,
+        "chg_20d_pct_pt": -0.7
+      }
     },
     {
       "code": "6531",
@@ -288,31 +286,31 @@
       "days_vs_ma60": -27,
       "days_vs_ma120": -29,
       "rsi14": 38.0,
-      "volume_ratio_20d": 0.07,
-      "avg_volume_20d": 4033.4,
+      "volume_ratio_20d": 0.08,
+      "avg_volume_20d": 4033.8,
       "high_250d": 1190.0,
       "drawdown_from_250d_high_pct": -52.44,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": 592,
-        "trust_net_lots": -1089,
-        "dealer_net_lots": 27,
-        "foreign_5d_lots": 2139,
-        "trust_5d_lots": -707,
-        "foreign_streak": 5,
-        "trust_streak": -1
+        "date": "2026-11-24",
+        "foreign_net_lots": -155,
+        "trust_net_lots": 0,
+        "dealer_net_lots": 40,
+        "foreign_5d_lots": 1664,
+        "trust_5d_lots": -1039,
+        "foreign_streak": -1,
+        "trust_streak": 0
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 4896,
-        "margin_chg_1d_lots": -148,
-        "margin_chg_5d_lots": -3343,
+        "date": "2026-11-24",
+        "margin_balance_lots": 4927,
+        "margin_chg_1d_lots": 31,
+        "margin_chg_5d_lots": -2504,
         "short_balance_lots": 26
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 31.7,
-        "chg_20d_pct_pt": -2.69
+        "date": "2026-11-24",
+        "ratio_pct": 31.55,
+        "chg_20d_pct_pt": -2.8
       }
     },
     {
@@ -330,31 +328,31 @@
       "days_vs_ma60": -27,
       "days_vs_ma120": -19,
       "rsi14": 52.0,
-      "volume_ratio_20d": 0.08,
-      "avg_volume_20d": 13992.9,
+      "volume_ratio_20d": 0.1,
+      "avg_volume_20d": 14006.9,
       "high_250d": 5285.0,
       "drawdown_from_250d_high_pct": -23.37,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": -927,
-        "trust_net_lots": 534,
-        "dealer_net_lots": 388,
-        "foreign_5d_lots": -8261,
-        "trust_5d_lots": 1811,
-        "foreign_streak": -6,
-        "trust_streak": 29
+        "date": "2026-11-24",
+        "foreign_net_lots": -94,
+        "trust_net_lots": -8,
+        "dealer_net_lots": 52,
+        "foreign_5d_lots": -6212,
+        "trust_5d_lots": 1168,
+        "foreign_streak": -7,
+        "trust_streak": -1
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 11930,
-        "margin_chg_1d_lots": 1319,
-        "margin_chg_5d_lots": 520,
-        "short_balance_lots": 64
+        "date": "2026-11-24",
+        "margin_balance_lots": 12316,
+        "margin_chg_1d_lots": 386,
+        "margin_chg_5d_lots": 844,
+        "short_balance_lots": 63
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 51.74,
-        "chg_20d_pct_pt": -2.46
+        "date": "2026-11-24",
+        "ratio_pct": 51.73,
+        "chg_20d_pct_pt": -2.34
       }
     },
     {
@@ -372,31 +370,31 @@
       "days_vs_ma60": -28,
       "days_vs_ma120": -19,
       "rsi14": 40.6,
-      "volume_ratio_20d": 0.17,
-      "avg_volume_20d": 4301.1,
+      "volume_ratio_20d": 0.18,
+      "avg_volume_20d": 4302.6,
       "high_250d": 2610.0,
       "drawdown_from_250d_high_pct": -42.15,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": -545,
-        "trust_net_lots": 73,
-        "dealer_net_lots": 8,
-        "foreign_5d_lots": 1685,
-        "trust_5d_lots": 129,
-        "foreign_streak": -1,
-        "trust_streak": 2
+        "date": "2026-11-24",
+        "foreign_net_lots": -328,
+        "trust_net_lots": 36,
+        "dealer_net_lots": 45,
+        "foreign_5d_lots": 974,
+        "trust_5d_lots": 170,
+        "foreign_streak": -2,
+        "trust_streak": 3
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 3487,
-        "margin_chg_1d_lots": 165,
-        "margin_chg_5d_lots": -688,
+        "date": "2026-11-24",
+        "margin_balance_lots": 3524,
+        "margin_chg_1d_lots": 37,
+        "margin_chg_5d_lots": -505,
         "short_balance_lots": 230
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 27.23,
-        "chg_20d_pct_pt": 0.45
+        "date": "2026-11-24",
+        "ratio_pct": 27.18,
+        "chg_20d_pct_pt": 0.41
       }
     },
     {
@@ -414,31 +412,31 @@
       "days_vs_ma60": -27,
       "days_vs_ma120": -30,
       "rsi14": 38.9,
-      "volume_ratio_20d": 0.05,
-      "avg_volume_20d": 19960.0,
+      "volume_ratio_20d": 0.08,
+      "avg_volume_20d": 19991.2,
       "high_250d": 2520.0,
       "drawdown_from_250d_high_pct": -56.94,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": 1043,
-        "trust_net_lots": 174,
-        "dealer_net_lots": -736,
-        "foreign_5d_lots": -8389,
-        "trust_5d_lots": -1267,
-        "foreign_streak": 1,
-        "trust_streak": 4
+        "date": "2026-11-24",
+        "foreign_net_lots": -460,
+        "trust_net_lots": -56,
+        "dealer_net_lots": 29,
+        "foreign_5d_lots": -9108,
+        "trust_5d_lots": 947,
+        "foreign_streak": -1,
+        "trust_streak": -1
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 11856,
-        "margin_chg_1d_lots": 2101,
-        "margin_chg_5d_lots": 2214,
+        "date": "2026-11-24",
+        "margin_balance_lots": 11288,
+        "margin_chg_1d_lots": -568,
+        "margin_chg_5d_lots": 1726,
         "short_balance_lots": 79
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 58.44,
-        "chg_20d_pct_pt": -1.93
+        "date": "2026-11-24",
+        "ratio_pct": 58.42,
+        "chg_20d_pct_pt": -1.85
       }
     },
     {
@@ -457,30 +455,30 @@
       "days_vs_ma120": -4,
       "rsi14": 38.6,
       "volume_ratio_20d": 0.09,
-      "avg_volume_20d": 6881.1,
+      "avg_volume_20d": 6881.5,
       "high_250d": 1330.0,
       "drawdown_from_250d_high_pct": -44.81,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": 108,
-        "trust_net_lots": -402,
-        "dealer_net_lots": -37,
-        "foreign_5d_lots": -1111,
-        "trust_5d_lots": -168,
-        "foreign_streak": 1,
-        "trust_streak": -1
+        "date": "2026-11-24",
+        "foreign_net_lots": -89,
+        "trust_net_lots": -234,
+        "dealer_net_lots": 10,
+        "foreign_5d_lots": -1437,
+        "trust_5d_lots": -155,
+        "foreign_streak": -1,
+        "trust_streak": -2
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 2918,
-        "margin_chg_1d_lots": -86,
-        "margin_chg_5d_lots": -301,
+        "date": "2026-11-24",
+        "margin_balance_lots": 3130,
+        "margin_chg_1d_lots": 212,
+        "margin_chg_5d_lots": -88,
         "short_balance_lots": 115
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 37.99,
-        "chg_20d_pct_pt": 4.22
+        "date": "2026-11-24",
+        "ratio_pct": 37.87,
+        "chg_20d_pct_pt": 5.62
       }
     },
     {
@@ -499,30 +497,30 @@
       "days_vs_ma120": -22,
       "rsi14": 40.8,
       "volume_ratio_20d": 0.07,
-      "avg_volume_20d": 29700.3,
+      "avg_volume_20d": 29703.3,
       "high_250d": 298.5,
       "drawdown_from_250d_high_pct": -43.22,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": -1270,
-        "trust_net_lots": 102,
-        "dealer_net_lots": 143,
-        "foreign_5d_lots": -5984,
-        "trust_5d_lots": -210,
-        "foreign_streak": -7,
-        "trust_streak": 3
+        "date": "2026-11-24",
+        "foreign_net_lots": -839,
+        "trust_net_lots": 0,
+        "dealer_net_lots": 53,
+        "foreign_5d_lots": -6070,
+        "trust_5d_lots": 81,
+        "foreign_streak": -8,
+        "trust_streak": 0
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 26904,
-        "margin_chg_1d_lots": -1165,
-        "margin_chg_5d_lots": -4710,
-        "short_balance_lots": 222
+        "date": "2026-11-24",
+        "margin_balance_lots": 26621,
+        "margin_chg_1d_lots": -283,
+        "margin_chg_5d_lots": -4275,
+        "short_balance_lots": 218
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 17.52,
-        "chg_20d_pct_pt": -1.88
+        "date": "2026-11-24",
+        "ratio_pct": 17.37,
+        "chg_20d_pct_pt": -1.65
       }
     },
     {
@@ -541,30 +539,30 @@
       "days_vs_ma120": -54,
       "rsi14": 30.3,
       "volume_ratio_20d": 0.13,
-      "avg_volume_20d": 1574.9,
+      "avg_volume_20d": 1575.2,
       "high_250d": 724.0,
       "drawdown_from_250d_high_pct": -72.03,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": 364,
+        "date": "2026-11-24",
+        "foreign_net_lots": -51,
         "trust_net_lots": 0,
-        "dealer_net_lots": -8,
-        "foreign_5d_lots": 1004,
+        "dealer_net_lots": 0,
+        "foreign_5d_lots": 532,
         "trust_5d_lots": 0,
-        "foreign_streak": 2,
+        "foreign_streak": -1,
         "trust_streak": 0
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 3966,
-        "margin_chg_1d_lots": -299,
-        "margin_chg_5d_lots": -834,
-        "short_balance_lots": 11
+        "date": "2026-11-24",
+        "margin_balance_lots": 3978,
+        "margin_chg_1d_lots": 12,
+        "margin_chg_5d_lots": -635,
+        "short_balance_lots": 13
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 66.75,
-        "chg_20d_pct_pt": 3.28
+        "date": "2026-11-24",
+        "ratio_pct": 66.71,
+        "chg_20d_pct_pt": 3.2
       }
     },
     {
@@ -583,74 +581,73 @@
       "days_vs_ma120": -84,
       "rsi14": 33.7,
       "volume_ratio_20d": 0.06,
-      "avg_volume_20d": 49875.1,
+      "avg_volume_20d": 49878.2,
       "high_250d": 185.5,
       "drawdown_from_250d_high_pct": -63.34,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": -1499,
-        "trust_net_lots": 6,
-        "dealer_net_lots": -6222,
-        "foreign_5d_lots": 5094,
-        "trust_5d_lots": 283,
-        "foreign_streak": -1,
-        "trust_streak": 1
+        "date": "2026-11-24",
+        "foreign_net_lots": -705,
+        "trust_net_lots": 0,
+        "dealer_net_lots": 44,
+        "foreign_5d_lots": 3155,
+        "trust_5d_lots": 213,
+        "foreign_streak": -2,
+        "trust_streak": 0
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 67627,
-        "margin_chg_1d_lots": 2686,
-        "margin_chg_5d_lots": -5777,
-        "short_balance_lots": 1367
+        "date": "2026-11-24",
+        "margin_balance_lots": 68784,
+        "margin_chg_1d_lots": 1157,
+        "margin_chg_5d_lots": -4205,
+        "short_balance_lots": 1358
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 19.45,
-        "chg_20d_pct_pt": -2.84
+        "date": "2026-11-24",
+        "ratio_pct": 19.38,
+        "chg_20d_pct_pt": -3.15
       }
     },
     {
       "code": "6223",
       "name": "旺矽",
-      "date": "2026-11-23",
-      "close": 3805.0,
-      "chg_1d_pct": 6.88,
-      "chg_5d_pct": -11.61,
-      "chg_20d_pct": -22.19,
-      "ma60": 5021.25,
-      "ma120": 5559.12,
-      "bias_ma60_pct": -24.22,
-      "bias_ma120_pct": -31.55,
-      "days_vs_ma60": -26,
-      "days_vs_ma120": -26,
-      "rsi14": 41.0,
-      "volume_ratio_20d": 1.61,
-      "avg_volume_20d": 1231.3,
+      "date": "2026-11-24",
+      "close": 4185.0,
+      "chg_1d_pct": 9.99,
+      "chg_5d_pct": 4.76,
+      "chg_20d_pct": -12.63,
+      "ma60": 4997.67,
+      "ma120": 5544.33,
+      "bias_ma60_pct": -16.26,
+      "bias_ma120_pct": -24.52,
+      "days_vs_ma60": -27,
+      "days_vs_ma120": -27,
+      "rsi14": 46.7,
+      "volume_ratio_20d": 0.07,
+      "avg_volume_20d": 1192.5,
       "high_250d": 7380.0,
-      "drawdown_from_250d_high_pct": -48.44,
+      "drawdown_from_250d_high_pct": -43.29,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": -242,
-        "trust_net_lots": 51,
-        "dealer_net_lots": 28,
-        "foreign_5d_lots": -590,
-        "trust_5d_lots": 482,
-        "foreign_streak": -1,
-        "trust_streak": 13
+        "date": "2026-11-24",
+        "foreign_net_lots": -37,
+        "trust_net_lots": 4,
+        "dealer_net_lots": 6,
+        "foreign_5d_lots": -509,
+        "trust_5d_lots": 341,
+        "foreign_streak": -2,
+        "trust_streak": 14
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 655,
-        "margin_chg_1d_lots": 1,
-        "margin_chg_5d_lots": -124,
+        "date": "2026-11-24",
+        "margin_balance_lots": 658,
+        "margin_chg_1d_lots": 3,
+        "margin_chg_5d_lots": -70,
         "short_balance_lots": 1
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 29.68,
-        "chg_20d_pct_pt": -1.48
-      },
-      "stale": true
+        "date": "2026-11-24",
+        "ratio_pct": 29.65,
+        "chg_20d_pct_pt": -1.49
+      }
     },
     {
       "code": "3443",
@@ -668,30 +665,30 @@
       "days_vs_ma120": -3,
       "rsi14": 39.1,
       "volume_ratio_20d": 0.04,
-      "avg_volume_20d": 3046.0,
+      "avg_volume_20d": 3046.5,
       "high_250d": 8610.0,
       "drawdown_from_250d_high_pct": -34.61,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": 815,
-        "trust_net_lots": -542,
-        "dealer_net_lots": 25,
-        "foreign_5d_lots": 633,
-        "trust_5d_lots": -523,
-        "foreign_streak": 1,
-        "trust_streak": -2
+        "date": "2026-11-24",
+        "foreign_net_lots": -48,
+        "trust_net_lots": -2,
+        "dealer_net_lots": -1,
+        "foreign_5d_lots": 822,
+        "trust_5d_lots": -560,
+        "foreign_streak": -1,
+        "trust_streak": -3
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 2561,
-        "margin_chg_1d_lots": -520,
-        "margin_chg_5d_lots": -1289,
-        "short_balance_lots": 39
+        "date": "2026-11-24",
+        "margin_balance_lots": 2601,
+        "margin_chg_1d_lots": 40,
+        "margin_chg_5d_lots": -828,
+        "short_balance_lots": 49
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 26.76,
-        "chg_20d_pct_pt": -0.61
+        "date": "2026-11-24",
+        "ratio_pct": 26.69,
+        "chg_20d_pct_pt": -0.85
       }
     },
     {
@@ -710,30 +707,30 @@
       "days_vs_ma120": 1,
       "rsi14": 55.4,
       "volume_ratio_20d": 0.06,
-      "avg_volume_20d": 3143.7,
+      "avg_volume_20d": 3144.9,
       "high_250d": 5375.0,
       "drawdown_from_250d_high_pct": -27.16,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": 229,
-        "trust_net_lots": 289,
-        "dealer_net_lots": 25,
-        "foreign_5d_lots": -417,
-        "trust_5d_lots": 1140,
-        "foreign_streak": 1,
-        "trust_streak": 10
+        "date": "2026-11-24",
+        "foreign_net_lots": -122,
+        "trust_net_lots": 0,
+        "dealer_net_lots": 11,
+        "foreign_5d_lots": 91,
+        "trust_5d_lots": 902,
+        "foreign_streak": -1,
+        "trust_streak": 0
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 3890,
-        "margin_chg_1d_lots": -149,
-        "margin_chg_5d_lots": -345,
-        "short_balance_lots": 211
+        "date": "2026-11-24",
+        "margin_balance_lots": 3939,
+        "margin_chg_1d_lots": 49,
+        "margin_chg_5d_lots": -361,
+        "short_balance_lots": 207
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 51.19,
-        "chg_20d_pct_pt": 1.4
+        "date": "2026-11-24",
+        "ratio_pct": 51.05,
+        "chg_20d_pct_pt": 1.33
       }
     },
     {
@@ -752,30 +749,30 @@
       "days_vs_ma120": -16,
       "rsi14": 33.4,
       "volume_ratio_20d": 0.04,
-      "avg_volume_20d": 27728.7,
+      "avg_volume_20d": 27733.0,
       "high_250d": 1325.0,
       "drawdown_from_250d_high_pct": -53.74,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": -940,
-        "trust_net_lots": -2343,
-        "dealer_net_lots": 602,
-        "foreign_5d_lots": -1434,
-        "trust_5d_lots": -5760,
-        "foreign_streak": -1,
-        "trust_streak": -1
+        "date": "2026-11-24",
+        "foreign_net_lots": -77,
+        "trust_net_lots": -113,
+        "dealer_net_lots": 3,
+        "foreign_5d_lots": -5917,
+        "trust_5d_lots": -1072,
+        "foreign_streak": -2,
+        "trust_streak": -2
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 33232,
-        "margin_chg_1d_lots": -19,
-        "margin_chg_5d_lots": -2197,
-        "short_balance_lots": 61
+        "date": "2026-11-24",
+        "margin_balance_lots": 33346,
+        "margin_chg_1d_lots": 114,
+        "margin_chg_5d_lots": -1050,
+        "short_balance_lots": 62
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 38.73,
-        "chg_20d_pct_pt": -3.05
+        "date": "2026-11-24",
+        "ratio_pct": 38.72,
+        "chg_20d_pct_pt": -2.87
       }
     },
     {
@@ -794,30 +791,30 @@
       "days_vs_ma120": -116,
       "rsi14": 39.6,
       "volume_ratio_20d": 0.1,
-      "avg_volume_20d": 1970.1,
+      "avg_volume_20d": 1971.0,
       "high_250d": 1080.0,
       "drawdown_from_250d_high_pct": -56.71,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": 279,
-        "trust_net_lots": -99,
-        "dealer_net_lots": -14,
-        "foreign_5d_lots": -367,
-        "trust_5d_lots": 296,
-        "foreign_streak": 1,
-        "trust_streak": -1
+        "date": "2026-11-24",
+        "foreign_net_lots": 59,
+        "trust_net_lots": -2,
+        "dealer_net_lots": 13,
+        "foreign_5d_lots": -146,
+        "trust_5d_lots": 208,
+        "foreign_streak": 2,
+        "trust_streak": -2
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 2659,
-        "margin_chg_1d_lots": -160,
-        "margin_chg_5d_lots": -450,
+        "date": "2026-11-24",
+        "margin_balance_lots": 2647,
+        "margin_chg_1d_lots": -12,
+        "margin_chg_5d_lots": -426,
         "short_balance_lots": 69
       },
       "foreign_holding": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "ratio_pct": 16.47,
-        "chg_20d_pct_pt": -0.63
+        "chg_20d_pct_pt": -0.56
       }
     },
     {
@@ -835,31 +832,31 @@
       "days_vs_ma60": -25,
       "days_vs_ma120": -25,
       "rsi14": 43.1,
-      "volume_ratio_20d": 1.74,
-      "avg_volume_20d": 2498.9,
+      "volume_ratio_20d": 1.78,
+      "avg_volume_20d": 2504.2,
       "high_250d": 187.0,
       "drawdown_from_250d_high_pct": -24.87,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": 491,
-        "trust_net_lots": 1,
-        "dealer_net_lots": 296,
-        "foreign_5d_lots": -177,
-        "trust_5d_lots": 1734,
-        "foreign_streak": 2,
-        "trust_streak": 5
+        "date": "2026-11-24",
+        "foreign_net_lots": -1828,
+        "trust_net_lots": 119,
+        "dealer_net_lots": -46,
+        "foreign_5d_lots": -2010,
+        "trust_5d_lots": 1653,
+        "foreign_streak": -1,
+        "trust_streak": 6
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 5321,
-        "margin_chg_1d_lots": -103,
-        "margin_chg_5d_lots": -826,
-        "short_balance_lots": 36
+        "date": "2026-11-24",
+        "margin_balance_lots": 5552,
+        "margin_chg_1d_lots": 231,
+        "margin_chg_5d_lots": -481,
+        "short_balance_lots": 32
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 12.66,
-        "chg_20d_pct_pt": -0.89
+        "date": "2026-11-24",
+        "ratio_pct": 12.31,
+        "chg_20d_pct_pt": -1.25
       }
     },
     {
@@ -877,31 +874,31 @@
       "days_vs_ma60": -19,
       "days_vs_ma120": -38,
       "rsi14": 45.0,
-      "volume_ratio_20d": 1.42,
-      "avg_volume_20d": 17310.6,
+      "volume_ratio_20d": 1.44,
+      "avg_volume_20d": 17336.2,
       "high_250d": 417.0,
       "drawdown_from_250d_high_pct": -32.25,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": -2324,
-        "trust_net_lots": 1458,
-        "dealer_net_lots": 732,
-        "foreign_5d_lots": -5657,
-        "trust_5d_lots": 8755,
-        "foreign_streak": -1,
-        "trust_streak": 5
+        "date": "2026-11-24",
+        "foreign_net_lots": -12734,
+        "trust_net_lots": 4331,
+        "dealer_net_lots": -474,
+        "foreign_5d_lots": -18536,
+        "trust_5d_lots": 11777,
+        "foreign_streak": -2,
+        "trust_streak": 6
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 13279,
-        "margin_chg_1d_lots": -266,
-        "margin_chg_5d_lots": -2541,
-        "short_balance_lots": 109
+        "date": "2026-11-24",
+        "margin_balance_lots": 14172,
+        "margin_chg_1d_lots": 893,
+        "margin_chg_5d_lots": -813,
+        "short_balance_lots": 233
       },
       "foreign_holding": {
-        "date": "2026-11-23",
-        "ratio_pct": 22.2,
-        "chg_20d_pct_pt": -0.8
+        "date": "2026-11-24",
+        "ratio_pct": 21.89,
+        "chg_20d_pct_pt": -1.21
       }
     },
     {
@@ -919,31 +916,31 @@
       "days_vs_ma60": -7,
       "days_vs_ma120": -4,
       "rsi14": 47.5,
-      "volume_ratio_20d": 0.08,
-      "avg_volume_20d": 1231.6,
+      "volume_ratio_20d": 0.09,
+      "avg_volume_20d": 1231.9,
       "high_250d": 842.0,
       "drawdown_from_250d_high_pct": -20.78,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": -149,
-        "trust_net_lots": 116,
-        "dealer_net_lots": 4,
-        "foreign_5d_lots": -301,
-        "trust_5d_lots": 380,
-        "foreign_streak": -1,
-        "trust_streak": 2
+        "date": "2026-11-24",
+        "foreign_net_lots": 5,
+        "trust_net_lots": 0,
+        "dealer_net_lots": 25,
+        "foreign_5d_lots": -154,
+        "trust_5d_lots": 360,
+        "foreign_streak": 1,
+        "trust_streak": 0
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 1073,
-        "margin_chg_1d_lots": 41,
-        "margin_chg_5d_lots": -431,
+        "date": "2026-11-24",
+        "margin_balance_lots": 1069,
+        "margin_chg_1d_lots": -4,
+        "margin_chg_5d_lots": -384,
         "short_balance_lots": 4
       },
       "foreign_holding": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "ratio_pct": 10.88,
-        "chg_20d_pct_pt": 0.07
+        "chg_20d_pct_pt": -0.06
       }
     },
     {
@@ -961,31 +958,31 @@
       "days_vs_ma60": -29,
       "days_vs_ma120": -29,
       "rsi14": 32.2,
-      "volume_ratio_20d": 0.11,
-      "avg_volume_20d": 1006.7,
+      "volume_ratio_20d": 0.12,
+      "avg_volume_20d": 1007.2,
       "high_250d": 8260.0,
       "drawdown_from_250d_high_pct": -61.26,
       "institutional": {
-        "date": "2026-11-23",
-        "foreign_net_lots": 304,
-        "trust_net_lots": -185,
-        "dealer_net_lots": 35,
-        "foreign_5d_lots": 833,
-        "trust_5d_lots": -253,
-        "foreign_streak": 3,
-        "trust_streak": -2
+        "date": "2026-11-24",
+        "foreign_net_lots": 14,
+        "trust_net_lots": -3,
+        "dealer_net_lots": 7,
+        "foreign_5d_lots": 785,
+        "trust_5d_lots": -257,
+        "foreign_streak": 4,
+        "trust_streak": -3
       },
       "margin": {
-        "date": "2026-11-23",
-        "margin_balance_lots": 535,
-        "margin_chg_1d_lots": 36,
-        "margin_chg_5d_lots": -32,
+        "date": "2026-11-24",
+        "margin_balance_lots": 541,
+        "margin_chg_1d_lots": 6,
+        "margin_chg_5d_lots": 4,
         "short_balance_lots": 1
       },
       "foreign_holding": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "ratio_pct": 19.83,
-        "chg_20d_pct_pt": 0.14
+        "chg_20d_pct_pt": 0.27
       }
     }
   ],
